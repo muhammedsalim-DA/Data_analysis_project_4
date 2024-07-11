@@ -6,7 +6,6 @@ This project presents a detailed analysis of crime data in the UK, focusing on k
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data Sources](#data-sources)
-- [Project Structure](#project-structure)
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
 - [Key Insights](#key-insights)
@@ -20,18 +19,6 @@ The data sourced from various tables includes crime information categorized by y
 ## Data Sources
 - Crime data: Various tables from UK crime databases
 
-## Project Structure
-uk-crime-data-analysis/
-├── data/
-│ ├── crime_data.xlsx
-├── analysis/
-│ ├── Crime_Data_Analysis.xlsx
-├── reports/
-│ ├── Crime_Data_Report.pptx
-│ ├── Crime_Data_Dashboard.pbix
-├── README.md
-└── .gitignore
-
 ## Installation and Setup
 To run this project locally, follow these steps:
 
@@ -44,7 +31,7 @@ To run this project locally, follow these steps:
 2. **Ensure you have Microsoft Excel, PowerPoint, and Power BI installed.**
 
 3. **Open the Analysis File:**
-    Navigate to the `analysis` folder and open `Crime_Data_Analysis.xlsx`.
+    Navigate to the `analysis` folder and open `Cleaned_Crime_Data_Analysis.xlsx`.
 
 ## Usage
 The Excel file contains all the steps for data loading, cleaning, analysis, and visualization. Follow the instructions in the Excel workbook to perform the analysis.
