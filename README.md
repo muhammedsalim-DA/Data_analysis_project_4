@@ -5,36 +5,16 @@ This project presents a detailed analysis of crime data in the UK, focusing on k
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Data Sources](#data-sources)
-- [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
+- [Installation and Setup](#installation-and-setup)
+- [Data Sources](#data-sources)
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [Contact Information](#contact-information)
 
 ## Introduction
 The data sourced from various tables includes crime information categorized by year, location, and type. This analysis provides a comprehensive examination of crime trends and anomalies, identifies key crime types and geographical patterns, and offers recommendations for targeted interventions and policy adjustments.
-
-## Data Sources
-- Crime data: Various tables from UK crime databases
-
-## Installation and Setup
-To run this project locally, follow these steps:
-
-1. **Clone the Repository:**
-    ```sh
-    git clone https://github.com/your-username/uk-crime-data-analysis.git
-    cd uk-crime-data-analysis
-    ```
-
-2. **Ensure you have Microsoft Excel, PowerPoint, and Power BI installed.**
-
-3. **Open the Analysis File:**
-    Navigate to the `analysis` folder and open `Cleaned_Crime_Data_Analysis.xlsx`.
-
-## Usage
-The Excel file contains all the steps for data loading, cleaning, analysis, and visualization. Follow the instructions in the Excel workbook to perform the analysis.
 
 ## Key Insights
 - **Top Increasing and Decreasing Crimes:**
@@ -71,6 +51,27 @@ The Excel file contains all the steps for data loading, cleaning, analysis, and 
 - **Further Research:**
   - Conduct studies on the dynamics driving crime correlations.
   - Explore socio-economic factors, law enforcement practices, and community programs' impact on crime trends.
+
+
+## Installation and Setup
+To run this project locally, follow these steps:
+
+1. **Clone the Repository:**
+    ```sh
+    git clone https://github.com/your-username/uk-crime-data-analysis.git
+    cd uk-crime-data-analysis
+    ```
+
+2. **Ensure you have Microsoft Excel, PowerPoint, and Power BI installed.**
+
+3. **Open the Analysis File:**
+    Navigate to the `analysis` folder and open `Cleaned_Crime_Data_Analysis.xlsx`.
+
+## Data Sources
+- Crime data: Various tables from UK crime databases
+
+## Usage
+The Excel file contains all the steps for data loading, cleaning, analysis, and visualization. Follow the instructions in the Excel workbook to perform the analysis.
 
 ## Contributing
 If you'd like to contribute to this project, please follow these steps:
