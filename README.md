@@ -4,7 +4,11 @@
 This project presents a detailed analysis of crime data in the UK, focusing on key trends and anomalies within specific regions and crime types. The primary regions of interest are London and Greater Manchester. The analysis aims to identify significant trends, key crime types, geographical patterns, and offers recommendations for targeted interventions and policy adjustments.
 
 ## Dashboard Overview
+
+Check out the video demonstration of our PowerBI dashboard:
+
 ![](Dashboard/Ukcrimedashboard.gif)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Key Insights](#key-insights)
